@@ -181,7 +181,7 @@ section{
     align-items: center;
   } */
 .section_pic-container{
-    padding-right: 75px;
+    
     display: flex;
     height: 400px;
     width: 400px;
