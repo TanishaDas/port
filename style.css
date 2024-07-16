@@ -180,6 +180,12 @@ section{
     height: 1px;
     width: 50%;
     align-items: center;
+     
+    display: flex;
+    height: 400px;
+    width: 400px;
+    margin: auto 0;
+    
   } */
 .section_pic-container{
     
