@@ -181,10 +181,6 @@ section{
     width: 50%;
     align-items: center;
      
-    display: flex;
-    height: 400px;
-    width: 400px;
-    margin: auto 0;
     
   } */
 .section_pic-container{
@@ -302,7 +298,10 @@ section{
 }
 
 .about-pic{
-    border-radius: 2rem;
+    border-radius: 1rem;
+    border:rgb(194, 162, 226) 0.2rem solid; 
+    margin-left: -4%;
+    
    
 }
 
